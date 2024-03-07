@@ -70,8 +70,10 @@ import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
 
 import discordBlack from "./socials/discord.svg";
+import email from "./socials/email.svg";
 import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
+import linkedin from "./socials/linkedin.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
@@ -79,6 +81,7 @@ export {
   brainwave,
   check,
   check2,
+  email,
   loading1,
   brainwaveSymbol,
   brainwaveWhiteSymbol,
@@ -97,6 +100,7 @@ export {
   chromecast,
   sliders04,
   loading,
+  linkedin,
   background,
   curve,
   robot,

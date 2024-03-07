@@ -7,13 +7,15 @@ import {
   chromecast,
   disc02,
   discord,
-  discordBlack,
-  facebook,
+  // discordBlack,
+  email,
+  // facebook,
   figma,
   file02,
   framer,
   homeSmile,
   instagram,
+  linkedin,
   notification2,
   notification3,
   notification4,
@@ -31,7 +33,7 @@ import {
   searchMd,
   slack,
   sliders04,
-  telegram,
+  // telegram,
   twitter,
   yourlogo,
 } from "../assets";
@@ -134,15 +136,17 @@ export const collabContent = [
   {
     id: "0",
     title: "Seamless Integration",
-    text: collabText,
+    text: "Easily integrate with your favorite tools and apps to streamline your workflow.",
   },
   {
     id: "1",
     title: "Smart Automation",
+    text: "Automate repetitive tasks and workflows to save time and increase productivity.",
   },
   {
     id: "2",
     title: "Top-notch Security",
+    text: "Keep your data safe and secure with enterprise-grade security features and protocols.",
   },
 ];
 
@@ -297,32 +301,26 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
+    title: "Linkedin",
+    iconUrl: linkedin,
+    url: "linkedin.com/in/rudra-vashishtha-7622a3217/",
   },
   {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://twitter.com/rudra_works",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/rudravashishtha_",
   },
   {
     id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
-  },
-  {
-    id: "4",
-    title: "Facebook",
-    iconUrl: facebook,
-    url: "#",
+    title: "Email",
+    iconUrl: email,
+    url: "mailto:rudra.vashishtha.works@gmail.com",
   },
 ];
